@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+  
+  #employeeList {
+    width: 100%;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  form input[type="text"], form input[type="number"] {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
