@@ -15,6 +15,7 @@ table, th, td {
   form {
     display: flex;
     flex-direction: row;
+
   }
   
   form input[type="text"], form input[type="number"] {
